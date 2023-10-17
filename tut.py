@@ -1,5 +1,5 @@
 # version 2
 
-print ('this is a new commmit after pusing the local branch to remote repository')
-
-print ('lets try to amend this commit before pushing to origin')
+print ('we have changed the amended commit again')
+print ('now we amend this commit in local branch')
+print ('but pusing this amending comit to origin will cause problems because it needs to overwrite the previous commit with this new commit')
